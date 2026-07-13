@@ -1,0 +1,6 @@
+streamlit
+python-docx
+openpyxl
+pillow
+pandas
+pywin32; platform_system == "Windows"
